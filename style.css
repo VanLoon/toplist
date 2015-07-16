@@ -1,5 +1,8 @@
+.row{
+	display: flex;
+	display: -webkit-flex;
+}
 .description {
-	color:red;
 	size:705px;
 }
 .screenshot{
